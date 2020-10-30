@@ -1,0 +1,9 @@
+C:\New Work\ProductsProject\BackendSolution\BackendSolution.Entity\bin\Debug\netcoreapp3.1\BackendSolution.Entity.deps.json
+C:\New Work\ProductsProject\BackendSolution\BackendSolution.Entity\bin\Debug\netcoreapp3.1\BackendSolution.Entity.dll
+C:\New Work\ProductsProject\BackendSolution\BackendSolution.Entity\bin\Debug\netcoreapp3.1\BackendSolution.Entity.pdb
+C:\New Work\ProductsProject\BackendSolution\BackendSolution.Entity\obj\Debug\netcoreapp3.1\BackendSolution.Entity.AssemblyInfoInputs.cache
+C:\New Work\ProductsProject\BackendSolution\BackendSolution.Entity\obj\Debug\netcoreapp3.1\BackendSolution.Entity.AssemblyInfo.cs
+C:\New Work\ProductsProject\BackendSolution\BackendSolution.Entity\obj\Debug\netcoreapp3.1\BackendSolution.Entity.csproj.CoreCompileInputs.cache
+C:\New Work\ProductsProject\BackendSolution\BackendSolution.Entity\obj\Debug\netcoreapp3.1\BackendSolution.Entity.dll
+C:\New Work\ProductsProject\BackendSolution\BackendSolution.Entity\obj\Debug\netcoreapp3.1\BackendSolution.Entity.pdb
+C:\New Work\ProductsProject\BackendSolution\BackendSolution.Entity\obj\Debug\netcoreapp3.1\BackendSolution.Entity.csprojAssemblyReference.cache

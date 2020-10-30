@@ -1,0 +1,16 @@
+C:\New Work\ProductsProject\BackendSolution\BackendSolution\bin\Debug\netcoreapp3.1\BackendSolution.Core.exe
+C:\New Work\ProductsProject\BackendSolution\BackendSolution\bin\Debug\netcoreapp3.1\BackendSolution.Core.deps.json
+C:\New Work\ProductsProject\BackendSolution\BackendSolution\bin\Debug\netcoreapp3.1\BackendSolution.Core.runtimeconfig.json
+C:\New Work\ProductsProject\BackendSolution\BackendSolution\bin\Debug\netcoreapp3.1\BackendSolution.Core.runtimeconfig.dev.json
+C:\New Work\ProductsProject\BackendSolution\BackendSolution\bin\Debug\netcoreapp3.1\BackendSolution.Core.dll
+C:\New Work\ProductsProject\BackendSolution\BackendSolution\bin\Debug\netcoreapp3.1\BackendSolution.Core.pdb
+C:\New Work\ProductsProject\BackendSolution\BackendSolution\bin\Debug\netcoreapp3.1\BackendSolution.Entity.dll
+C:\New Work\ProductsProject\BackendSolution\BackendSolution\bin\Debug\netcoreapp3.1\BackendSolution.Entity.pdb
+C:\New Work\ProductsProject\BackendSolution\BackendSolution\obj\Debug\netcoreapp3.1\BackendSolution.Core.csprojAssemblyReference.cache
+C:\New Work\ProductsProject\BackendSolution\BackendSolution\obj\Debug\netcoreapp3.1\BackendSolution.Core.AssemblyInfoInputs.cache
+C:\New Work\ProductsProject\BackendSolution\BackendSolution\obj\Debug\netcoreapp3.1\BackendSolution.Core.AssemblyInfo.cs
+C:\New Work\ProductsProject\BackendSolution\BackendSolution\obj\Debug\netcoreapp3.1\BackendSolution.Core.csproj.CoreCompileInputs.cache
+C:\New Work\ProductsProject\BackendSolution\BackendSolution\obj\Debug\netcoreapp3.1\BackendSolution.Core.csproj.CopyComplete
+C:\New Work\ProductsProject\BackendSolution\BackendSolution\obj\Debug\netcoreapp3.1\BackendSolution.Core.dll
+C:\New Work\ProductsProject\BackendSolution\BackendSolution\obj\Debug\netcoreapp3.1\BackendSolution.Core.pdb
+C:\New Work\ProductsProject\BackendSolution\BackendSolution\obj\Debug\netcoreapp3.1\BackendSolution.Core.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\New Work\ProductsProject\BackendSolution\BackendSolution.Infrastructure.Data\bin\Debug\netcoreapp3.1\BackendSolution.Infrastructure.Data.deps.json
+C:\New Work\ProductsProject\BackendSolution\BackendSolution.Infrastructure.Data\bin\Debug\netcoreapp3.1\BackendSolution.Infrastructure.Data.dll
+C:\New Work\ProductsProject\BackendSolution\BackendSolution.Infrastructure.Data\obj\Debug\netcoreapp3.1\BackendSolution.Infrastructure.Data.csprojAssemblyReference.cache
+C:\New Work\ProductsProject\BackendSolution\BackendSolution.Infrastructure.Data\obj\Debug\netcoreapp3.1\BackendSolution.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\New Work\ProductsProject\BackendSolution\BackendSolution.Infrastructure.Data\obj\Debug\netcoreapp3.1\BackendSolution.Infrastructure.Data.AssemblyInfo.cs
+C:\New Work\ProductsProject\BackendSolution\BackendSolution.Infrastructure.Data\bin\Debug\netcoreapp3.1\BackendSolution.Core.exe
+C:\New Work\ProductsProject\BackendSolution\BackendSolution.Infrastructure.Data\bin\Debug\netcoreapp3.1\BackendSolution.Infrastructure.Data.pdb
+C:\New Work\ProductsProject\BackendSolution\BackendSolution.Infrastructure.Data\bin\Debug\netcoreapp3.1\BackendSolution.Core.dll
+C:\New Work\ProductsProject\BackendSolution\BackendSolution.Infrastructure.Data\bin\Debug\netcoreapp3.1\BackendSolution.Entity.dll
+C:\New Work\ProductsProject\BackendSolution\BackendSolution.Infrastructure.Data\bin\Debug\netcoreapp3.1\BackendSolution.Entity.pdb
+C:\New Work\ProductsProject\BackendSolution\BackendSolution.Infrastructure.Data\bin\Debug\netcoreapp3.1\BackendSolution.Core.pdb
+C:\New Work\ProductsProject\BackendSolution\BackendSolution.Infrastructure.Data\obj\Debug\netcoreapp3.1\BackendSolution.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\New Work\ProductsProject\BackendSolution\BackendSolution.Infrastructure.Data\obj\Debug\netcoreapp3.1\BackendSolution.Infrastructure.Data.csproj.CopyComplete
+C:\New Work\ProductsProject\BackendSolution\BackendSolution.Infrastructure.Data\obj\Debug\netcoreapp3.1\BackendSolution.Infrastructure.Data.dll
+C:\New Work\ProductsProject\BackendSolution\BackendSolution.Infrastructure.Data\obj\Debug\netcoreapp3.1\BackendSolution.Infrastructure.Data.pdb
