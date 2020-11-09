@@ -1,5 +1,6 @@
 ﻿using BackendSolution.Core.DomainService;
 using BackendSolution.Entity;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -23,18 +24,21 @@ namespace BackendSolution.Infrastructure.Data.Repositories
         {
             Product pro = _btx.Add(product).Entity;
             _btx.SaveChanges();
-            return product;
+            return pro;
         }
 
         public Product DeleteProduct(int id)
         {
             Product pro = GetAllProducts().Find(p => p.ID == id);
             GetAllProducts().Remove(pro);
-            if(pro != null)
+            _btx.SaveChanges();
+            if (pro != null)
             {
                 return pro;
             }
             return null;
+            
+            //return pro;
         }
 
         public List<Product> GetAllProducts()
@@ -58,13 +62,39 @@ namespace BackendSolution.Infrastructure.Data.Repositories
             if(pro != null)
             {
                 pro.Name = updateProduct.Name;
-                pro.Price = updateProduct.Price;
+               // pro.Price = updateProduct.Price;
                 pro.Color = updateProduct.Color;
                 pro.Type = updateProduct.Type;
-                pro.CreatedDate = pro.CreatedDate;
+                //pro.CreatedDate = pro.CreatedDate;
 
             }
+            _btx.Entry(pro).State = EntityState.Modified;
+            _btx.SaveChanges();
             return pro;
+        }
+
+        public void AddProduct(Product addProduct)
+        {
+            _btx.Products.Add(addProduct);
+            _btx.SaveChanges();
+        }
+
+        public void EditProduct(Product editProduct)
+        {
+            _btx.Entry(editProduct).State = EntityState.Modified;
+            _btx.SaveChanges();
+        }
+
+        public void RemoveProduct(long id)
+        {
+            var pro = _btx.Products.FirstOrDefault(p => p.ID == id);
+            _btx.Products.Remove(pro);
+            _btx.SaveChanges();
+        }
+
+        public Product GetProduct(long id)
+        {
+            return _btx.Products.FirstOrDefault(p => p.ID == id);
         }
     }
 }

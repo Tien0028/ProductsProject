@@ -102,3 +102,4 @@ C:\New Work\ProductsProject\BackendSolution\BackendSolution.RESTAPI\obj\Debug\ne
 C:\New Work\ProductsProject\BackendSolution\BackendSolution.RESTAPI\obj\Debug\netcoreapp3.1\BackendSolution.RESTAPI.xml
 C:\New Work\ProductsProject\BackendSolution\BackendSolution.RESTAPI\obj\Debug\netcoreapp3.1\BackendSolution.RESTAPI.pdb
 C:\New Work\ProductsProject\BackendSolution\BackendSolution.RESTAPI\obj\Debug\netcoreapp3.1\BackendSolution.RESTAPI.genruntimeconfig.cache
+C:\New Work\ProductsProject\BackendSolution\BackendSolution.RESTAPI\bin\Debug\netcoreapp3.1\BackEnd_Authentication.post.man_collection.json.postman_collection.json

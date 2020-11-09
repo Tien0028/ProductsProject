@@ -13,5 +13,9 @@ namespace BackendSolution.Core.DomainService
         Product GetProductByID(int id);
         Product Update(Product updateProduct);
         Product DeleteProduct(int id);
+        Product GetProduct(long id);
+        void AddProduct(Product addProduct);
+        void EditProduct(Product editProduct);
+        void RemoveProduct(long id);
     }
 }

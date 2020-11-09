@@ -3,23 +3,28 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30406.217
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackendSolution.Core", "BackendSolution\BackendSolution.Core.csproj", "{F9A3F451-A018-4BD4-8A49-80A50DCBD483}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BackendSolution.Core", "BackendSolution\BackendSolution.Core.csproj", "{F9A3F451-A018-4BD4-8A49-80A50DCBD483}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Backend", "Backend", "{C5E23E9C-9D46-4403-AFD6-DFBD314BD2FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackendSolution.Entity", "BackendSolution.Entity\BackendSolution.Entity.csproj", "{0D70DDC8-6CDD-4D9F-A242-135EE363C72D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BackendSolution.Entity", "BackendSolution.Entity\BackendSolution.Entity.csproj", "{0D70DDC8-6CDD-4D9F-A242-135EE363C72D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{BDEF3255-03B2-4B6D-B04F-0BDB75090E9B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{E459F350-1A69-49E6-A165-D9E6731DBC00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackendSolution.Infrastructure.Data", "BackendSolution.Infrastructure.Data\BackendSolution.Infrastructure.Data.csproj", "{6A6F73A5-E22F-4A2E-8C07-761AA5AAAD4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BackendSolution.Infrastructure.Data", "BackendSolution.Infrastructure.Data\BackendSolution.Infrastructure.Data.csproj", "{6A6F73A5-E22F-4A2E-8C07-761AA5AAAD4C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Frontend", "Frontend", "{A52D0B22-5F4B-47F8-870E-9734165EE839}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{6AA2BA5B-938D-4C60-8CE7-C1E7535748B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackendSolution.RESTAPI", "BackendSolution.RESTAPI\BackendSolution.RESTAPI.csproj", "{CDD1223D-F8B9-42C6-A1AF-8B43FEDA0161}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BackendSolution.RESTAPI", "BackendSolution.RESTAPI\BackendSolution.RESTAPI.csproj", "{CDD1223D-F8B9-42C6-A1AF-8B43FEDA0161}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Postman", "Postman", "{82891553-E838-4879-BA0D-099C49B361A0}"
+	ProjectSection(SolutionItems) = preProject
+		BackendSolution.RESTAPI\BackEnd_Authentication.post.man_collection.json.postman_collection.json = BackendSolution.RESTAPI\BackEnd_Authentication.post.man_collection.json.postman_collection.json
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
