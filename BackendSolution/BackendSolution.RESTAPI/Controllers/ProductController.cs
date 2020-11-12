@@ -25,7 +25,7 @@ namespace BackendSolution.RESTAPI.Controllers
         }
 
         //GET: api/Product
-       //[Authorize]
+        [Authorize]
         [HttpGet]
         public IEnumerable<Product> GetAll()
         {
@@ -33,7 +33,7 @@ namespace BackendSolution.RESTAPI.Controllers
         }
 
         // GET api/Product/5
-        //[Authorize(Roles = "Adminstrator")]
+        [Authorize(Roles = "Adminstrator")]
         [HttpGet("{id}", Name ="Get")]
         public IActionResult Get(long id)
         {
@@ -48,7 +48,7 @@ namespace BackendSolution.RESTAPI.Controllers
         }
 
         // POST api/Product
-        //[Authorize(Roles = "Administrator")]
+        [Authorize(Roles = "Administrator")]
         [HttpPost]
         public IActionResult Post([FromBody] Product pro)
         {
@@ -62,7 +62,7 @@ namespace BackendSolution.RESTAPI.Controllers
         }
 
         // DELETE api/ApiWithActions/5
-        //[Authorize(Roles ="Administrator")]
+        [Authorize(Roles ="Administrator")]
         [HttpDelete("{id}")]
         public IActionResult Delete(long id)
         {
